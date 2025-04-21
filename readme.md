@@ -28,7 +28,7 @@ CompanyScraper is a Python application that seeks to automate the extraction of 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/company-scraper.git
+git clone https://github.com/Surya-prakash24642/company_scraper.git
 cd company-scraper
 ```
 
